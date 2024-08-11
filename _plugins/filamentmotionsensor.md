@@ -118,7 +118,7 @@ To use this plugin a Filament Sensor needs to be sending a toggling digital sign
 ## Installation
 
 * Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager).
-* Manual install: Scroll down the "Get more" menu in Plugin Manager, Use this URL: https://github.com/tabahi/Octoprint-Smart-Filament-Sensor-V2/archive/master.zip
+* Manual install: Scroll down the "Get more" menu in Plugin Manager, Use this URL: https://github.com/tabahi/Octoprint-Smart-Filament-Sensor/archive/master.zip
 
 After installation a restart of Octoprint is required.
 
@@ -151,5 +151,5 @@ The custom GCode managed by the plugin is only run when a print is paused due to
 * Support of multiple sensors for multiextruders. Depending on the demand.
 
 ## Contact
-* [Issues](https://github.com/tabahi/Octoprint-Smart-Filament-Sensor-V2/issues)
+* [Issues](https://github.com/tabahi/Octoprint-Smart-Filament-Sensor/issues)
 * [Octoprint Discord](https://discord.octoprint.org/)
