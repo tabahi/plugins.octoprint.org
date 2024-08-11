@@ -151,4 +151,7 @@ The custom GCode managed by the plugin is only run when a print is paused due to
 
 ## Contact
 * [Issues](https://github.com/tabahi/Octoprint-Smart-Filament-Sensor/issues)
+<<<<<<< HEAD
+* [Octoprint Discord](https://discord.octoprint.org/)
+=======
 * [Octoprint Discord](https://discord.octoprint.org/)
