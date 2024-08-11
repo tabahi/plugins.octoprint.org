@@ -28,12 +28,12 @@ tags:
 - Jam
 
 screenshots:
-#- url: /assets/img/plugins/smartfilamentsensorV2/settings.PNG
-#  alt: Screenshot of the plugin in settings
-#  caption: Smart Filament Sensor settings
-#- url: url of another screenshot, /assets/img/...
-#  alt: alt-text of another screenshot
-#  caption: caption of another screenshot
+- url: /assets/img/plugins/filamentmotionsensor/settings.png
+  alt: Screenshot of the plugin in settings
+  caption: Filament Motion Sensor's Settings
+- url: /assets/img/plugins/filamentmotionsensor/sidebar.png
+  alt: Screenshot of the plugin on the sidebar
+  caption: Filament Motion Sensor's sidebar view during a print jam
 #- ...
 
 #featuredimage: url of a featured image for your plugin, /assets/img/...
